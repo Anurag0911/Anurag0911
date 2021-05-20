@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Anurag0911
+- 👀 I’m interested in Computer science and engineering
+- 🌱 I’m currently learning Python and Data Analytics
+- 💞️ I’m looking to collaborate on Projects related to Web development
+- 📫 How to reach me anurag.asy81@gmail.com
